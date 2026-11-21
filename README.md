@@ -7,7 +7,7 @@ Test reports exported from Model Arena (OCR / AI model comparison).
 | File | Test set |
 |---|---|
 | `Model Arena/รายงาน-ชุดทดสอบ_เอกสารราชการไทย-202611132356.pdf` | Thai government documents, 5 pages |
-| `Model Arena/รายงาน-ชุดทดสอบ_ เอกสารภาษาไทย-202611192111.pdf` | Thai documents, 29 pages |
+| `Model Arena/รายงาน-ชุดทดสอบ_ เอกสารภาษาไทย-202611211433.pdf` | Thai documents, 29 pages, 5 models |
 
 ## Image credits (Thai documents report)
 
